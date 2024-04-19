@@ -1,0 +1,31 @@
+.attribution { 
+    font-size: 11px; text-align: center; 
+}
+
+.attribution a { 
+    color: hsl(228, 45%, 44%); 
+}
+
+body {
+    font-size: 16px;
+    background-color: hsl(47, 88%, 63%);
+}
+
+.card {
+    max-width: 275px;
+    margin: auto;
+    border-top: 75%;
+    border: 1px solid black;
+    border-radius: 1em;
+    background-color: white;
+    box-shadow: 5px 5px;
+}
+
+.pic {
+    border-radius: 15px;
+    max-width: 250px;
+    margin: auto;
+    margin-top: 5%;
+    display: flex;
+    align-items: center;
+}
