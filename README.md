@@ -25,8 +25,6 @@ Want some support on the challenge? [Join our community](https://www.frontendmen
 
 The biggest challenge i faced was useing the box model with flexbox together to get the look i wanted. I had to play around with the padding, margin, and border to get it where i wanted.
 
-
-
 ## Deploying your project
 
 As mentioned above, there are many ways to host your project for free. Our recommend hosts are:
